@@ -154,6 +154,7 @@ HTMLファイルの表示内容に問題がなければ、
 
   $ git push
 
+.. image:: Image/github_05.png
 
 Read The Docsにインポートする
 =============================
