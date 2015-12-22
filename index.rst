@@ -152,6 +152,8 @@ HTMLファイルの表示内容に問題がなければ、
   $ git add *
   $ git commit -m "1st Prototype"
 
+  $ git push
+
 
 Read The Docsにインポートする
 =============================

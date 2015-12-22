@@ -141,6 +141,20 @@ index.rstを元にHTMLファイルを生成します。
 
 .. image:: Image/github_04.png
 
+GitHubにコミットする
+====================
+
+HTMLファイルの表示内容に問題がなければ、
+生成したファイル群をgithubのリポジトリにコミットします。
+
+::
+
+  $ git add *
+  $ git commit -m "1st Prototype"
+
+  $ git push
+
+
 Read The Docsにインポートする
 =============================
 
