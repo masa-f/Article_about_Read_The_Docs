@@ -154,8 +154,41 @@ HTMLファイルの表示内容に問題がなければ、
 
   $ git push
 
+.. image:: Image/github_05.png
 
 Read The Docsにインポートする
 =============================
+
+Read the DocsのWebサイト（https://readthedocs.org/）にアクセスして
+［登録］ボタンを押しユーザー登録しておきます。
+
+.. image:: Image/github_06.png
+
+ログインしたら［Import a Project］ボタンをクリックします。
+
+.. image:: Image/github_07.png
+
+［Import a Project］ボタンをクリックすると、［Import a Repository］画面が表示されます。
+ここで［Connect to GitHub］ボタンをクリックします。
+
+.. image:: Image/github_08.png
+
+［Connect to GitHub］ボタンをクリックすると、
+［Sign in to GitHub］画面が表示されます。
+ここで、githubにログインします。
+
+.. image:: Image/github_09.png
+
+githubにログインしたら
+右上のメニューを開き［Add Project］をクリックします。
+
+.. image:: Image/github_10.png
+
+［Import a Repository］画面でリサイクルボタンをクリックして
+リポジトリの内容を更新します。
+
+.. image:: Image/github_11.png
+
+
 
 
